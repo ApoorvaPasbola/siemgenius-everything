@@ -1,0 +1,12 @@
+[submodule "siemgenius-core"]
+	path = siemgenius-core
+	url = https://github.com/ApoorvaPasbola/siemgenius-core.git
+[submodule "siemgenius-ui"]
+	path = siemgenius-ui
+	url = https://github.com/ApoorvaPasbola/siemgenius-ui.git
+[submodule "siemgenius-endpoint-builder"]
+	path = siemgenius-endpoint-builder
+	url = https://github.com/ApoorvaPasbola/siemgenius-endpoint-builder.git
+[submodule "siemgenius-app"]
+	path = siemgenius-app
+	url = https://github.com/ApoorvaPasbola/siemgenius-app.git
